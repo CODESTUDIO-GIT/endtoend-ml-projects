@@ -9,3 +9,9 @@ End to End ML Project 1 - P2 - Exploratory Data Analysis
 
 End to End ML Project 1 - P3 - Model Building and Selection
 <br>https://www.youtube.com/watch?v=p8rWU8lLl7I
+
+End to End ML Project 1 - P4 - Coding Backend, REST API and Testing
+<br>https://www.youtube.com/watch?v=MQe9JwWWpM8
+
+End to End ML Project 1 - P5 - Coding Frontend UI, REST API and Testing
+<br>https://www.youtube.com/watch?v=czQ1w8jzrHs
