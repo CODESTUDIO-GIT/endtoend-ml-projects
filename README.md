@@ -19,5 +19,5 @@ End to End ML Project 1 - P5 - Coding Frontend UI, REST API and Testing
 End to End ML Project 1 - P6 - Deployment in AWS EC2 with NGINX, Guinicorn, Supervisor
 <br>https://www.youtube.com/watch?v=nL_ZoC1BGAE
 
-End to End ML Project 1 Playlist
+End to End ML Project Playlist
 <br>https://www.youtube.com/watch?v=-A20sxoHH8Q&list=PLNvKRfckeRUmHhueguiJQg2hkcRmAo8PD
