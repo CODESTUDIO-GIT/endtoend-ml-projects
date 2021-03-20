@@ -7,7 +7,7 @@ scikit-learn==0.22.1 # to get model lib
 kneed==0.5.1 #elbow plot
 xgboost==1.0.2 #pip install xgboost-1.0.2-cp36-cp36m-win32.whl
 Flask-MonitoringDashboard==3.0.6 # flask app monitor dashboard
-Jinja2==2.11.0 #Flask is based on the Jinja2 template engine
+Jinja2==2.11.3 #Flask is based on the Jinja2 template engine
 Werkzeug==0.16.1 #Flask is based on the Werkzeug WSGI toolkit
 itsdangerous==1.1.0 #Various helpers to pass data to untrusted environments and to get it back safe and sound. Data is cryptographically signed to ensure that a token has not been tampered with.
 certifi==2019.11.28 #Certifi is a carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
