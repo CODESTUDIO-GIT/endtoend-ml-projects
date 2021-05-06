@@ -1,5 +1,5 @@
 Flask==1.1.1 # flask lib
-Flask-Cors==3.0.8 #A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
+Flask-Cors==3.0.9 #A Flask extension for handling Cross Origin Resource Sharing (CORS), making cross-origin AJAX possible
 matplotlib==3.1.2 #matplotlib
 numpy==1.18.1 #numpy
 pandas==0.25.3 # pandas
